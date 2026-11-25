@@ -1,5 +1,6 @@
 <div align="center">
-    <br>
+    - [StagePeek](https://stagepeek.live) - Interactive 2D seating charts and custom 3D Three.js concert arena sightlines across 201 global venues (no-login 3D demo).
+<br>
     <img src="assets/awesome-threejs-logo.png" alt="logo" width="80%"/>
     <h1>Awesome Threejs <a href="https://awesome.re", '_self');> <img src="https://awesome.re/badge.svg" alt="Awesome badge"/></a></h1>
     <p>
